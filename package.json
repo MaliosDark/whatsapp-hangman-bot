@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-hangman-bot",
+  "version": "1.0.0",
+  "description": "A WhatsApp Hangman game bot using venom-bot",
+  "main": "hangman.js",
+  "scripts": {
+    "start": "node hangman.js"
+  },
+  "dependencies": {
+    "venom-bot": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "license": "MIT"
+}
